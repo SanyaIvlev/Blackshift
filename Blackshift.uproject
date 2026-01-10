@@ -19,5 +19,8 @@
 			"Name": "MetaHumanCharacter",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
